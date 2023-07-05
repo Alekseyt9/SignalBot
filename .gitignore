@@ -5,3 +5,5 @@
 /.vs/SignalBot_NetCore/DesignTimeBuild
 /.vs/ProjectEvaluation
 /.vs/SignalBot_NetCore/config
+/SignalBot_NetCore/bin/Release/net6.0
+/SignalBot_NetCore/Properties/PublishProfiles
